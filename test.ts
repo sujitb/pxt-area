@@ -1,1 +1,4 @@
-// tests go here; this will not be compiled when this package is used as an extension.
+basic.showNumber(area.rectangle(10, 10))
+basic.showNumber(area.triangle(1, 1))
+basic.showNumber(area.square(10))
+basic.showNumber(area.circle(100))
