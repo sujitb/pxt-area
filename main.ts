@@ -6,7 +6,7 @@
  * Circle -- input the radius
  */
 
-//% color="#2C3FAF" weight=100
+//% color="#2C3FAF" weight=100 icon="\u26d0"
 namespace area {
     //% block="circle radius $radius"
     //% radius.defl=100
